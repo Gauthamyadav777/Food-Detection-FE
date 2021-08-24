@@ -1,4 +1,4 @@
-This project is applied clarifai api to do food detect [frontend](https://github.com/ginnnnnn/food-detect-frontend).
+This project is applied clarifai api to do food detect.
 
 ## dependencies
 
