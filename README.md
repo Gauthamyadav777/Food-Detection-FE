@@ -23,4 +23,4 @@ This project is applied clarifai api to do food detect.
 
 This App is hosting on Heroku<br>
 
-it's a simple app . just paste any img url on and it will show what food ingedient in it.
+It's a simple app. Just paste any img with url and it will show what food ingedient in it.
