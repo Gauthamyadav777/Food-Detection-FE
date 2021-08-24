@@ -19,7 +19,7 @@ This project is applied clarifai api to do food detect.
     "knex": "^0.16.5",             [SQL library]
     "pg": "^7.11.0"                [postgreSQL library]
 
-### `APP indroduction`
+### `APP introduction`
 
 This App is hosting on Heroku<br>
 
