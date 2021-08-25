@@ -1,4 +1,4 @@
-This project is applied clarifai api to do food detect.
+This project applies clarifai api to detect food ingredients.
 
 ## dependencies
 
